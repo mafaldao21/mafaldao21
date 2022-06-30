@@ -1,4 +1,4 @@
-### Hi there, I'm Mafalda 👋
+# Hi there, I'm Mafalda 👋
 
 I'm a full-stack web developer from Porto with a fondness for making the ideas in my head come to life!
 
@@ -26,3 +26,5 @@ I'm a full-stack web developer from Porto with a fondness for making the ideas i
 ![1024px-Python-logo-notext svg](https://user-images.githubusercontent.com/99335442/176713553-f0998aef-782a-47da-9c7f-22928a26d0fd.png)
 Python
 
+## Find me elsewhere...
+[LinkedIn](https://www.linkedin.com/in/mafalda-r-oliveira/) // mafalda.oliveira.21@icloud.com
