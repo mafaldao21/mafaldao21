@@ -27,4 +27,4 @@ I'm a full-stack web developer from Porto with a fondness for making the ideas i
 Python
 
 ## Find me elsewhere...
-[LinkedIn](https://www.linkedin.com/in/mafalda-r-oliveira/) // mafalda.oliveira.21@icloud.com
+[LinkedIn](https://www.linkedin.com/in/mafalda-r-oliveira/) // mafalda.oliveira.21@icloud.com // [Portfolio](https://mafalda-oliveira-portfolio.herokuapp.com/)
